@@ -129,7 +129,7 @@ def download_video(url, output_dir='./videos', timeout=300):
     info = parse_douyin_url(url)
     
     # 创建输出目录
-    output_path = Path(output_dir).expanduser().resolve()
+    output_path = Path(output_dir).expanduser().resolve()  # 支持 ~/videos 或绝对路径
     output_path.mkdir(parents=True, exist_ok=True)
     
     # 清理文件名（移除特殊字符，限制长度）

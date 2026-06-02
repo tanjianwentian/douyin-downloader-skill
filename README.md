@@ -60,13 +60,13 @@ print(f"下载完成：{video_path}")
   标题：这是一个很棒的视频
   作者：某位创作者
   地址：http://www.iesdouyin.com/aweme/v1/play/...
-  保存：/home/xiaoxin/videos/某位创作者_这是一个很棒的视频_12345678.mp4
+  保存：/home/user/videos/某位创作者_这是一个很棒的视频_12345678.mp4
   进度：100.0%
 
-✓ 下载完成：/home/xiaoxin/videos/某位创作者_这是一个很棒的视频_12345678.mp4
+✓ 下载完成：/home/user/videos/某位创作者_这是一个很棒的视频_12345678.mp4
   大小：15.23 MB
 
-✅ 成功保存到：/home/xiaoxin/videos/某位创作者_这是一个很棒的视频_12345678.mp4
+✅ 成功保存到：/home/user/videos/某位创作者_这是一个很棒的视频_12345678.mp4
 ```
 
 ## 注意事项
